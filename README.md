@@ -1,3 +1,7 @@
+#Instalação
+
+Para rodar o projeto use o npm install
+
 # GerenciadorDeTarefas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
